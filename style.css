@@ -60,7 +60,16 @@ footer .email-link{
 footer .email-link:hover{
 color: #DDC1A7;
 }
-footer .social-links a{
+footer .social-link a{
     margin:0 20px;
     color: #5B5349;
+    background: #DDC1A7;
+    padding: 10px 14px;
+    border-radius:50%;
+    font-size: 18px;
+    transition: all 100ms ease-in-out;
+}
+footer .social-link a:hover{
+    color:#DDC1A7;
+    background: #5B5349;
 }
