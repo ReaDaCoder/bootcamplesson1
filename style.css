@@ -1,11 +1,19 @@
 h1{
-    font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   color: #5B5349;
   margin-top: 20px;
   font-weight: 800;
   font-size: 60px;
   line-height: 72px;
+}
+h3{
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  color: #5B5349;
+  font-weight:500;
+  font-size: 50px;
+  line-height: 60px;
 }
 .logo{
     max-height: 75px;
