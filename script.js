@@ -8,3 +8,8 @@ let contactInfo = {
 };
 let h1 = document.querySelector("h1");
 h1.innerHTML = name + surname;
+
+let h2 = document.querySelector("h2");
+h2.innerHTML = bio;
+
+let container = document.querySelector("#contactInfo");
